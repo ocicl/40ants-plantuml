@@ -1,0 +1,10 @@
+* 40ants-plantuml
+
+Wrapper around PlantUML Java program for rendering UML diagrams
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/40ants/plantuml.git         |
+| commit  | edd9c27                                             |
+| systems | 40ants-plantuml                                     |
+|---------+-----------------------------------------------------|
+
